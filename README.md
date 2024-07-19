@@ -1,7 +1,7 @@
-# Ada
+# AdaFold
 This is the repository that contains source code for the [AdaFold website](https://adafold.github.io), forked from [Nerfies website](https://nerfies.github.io).
 
-If you find AdaFold useful for your work please cite:
+If you find AdaFold useful for your work, please cite:
 ```
 @article{longhini2024adafold,
   title={AdaFold: Adapting Folding Trajectories of Cloths via Feedback-loop Manipulation},
